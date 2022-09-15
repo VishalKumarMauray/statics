@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1547875750 source:f:\college work\code blocks\statics\main.cpp
+	<iostream>
+	<conio.h>
+	<math.h>
+
